@@ -1,0 +1,10 @@
+numpy
+pandas<2.0.0
+loguru
+statsmodels
+itk
+SimpleITK
+torch
+tqdm
+scikit-learn
+monai
